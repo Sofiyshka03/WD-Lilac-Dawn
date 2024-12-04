@@ -179,6 +179,7 @@ body {
     background-repeat: no-repeat;
     overflow-x: hidden;
     position: relative;
+    animation: fadeIn 2s ease-in-out;
 
 }
 
